@@ -5,4 +5,4 @@ la app esta pensada para pruebas en dispositivos moviles pero no puse mucha aten
 
 para utilizarla correctamente se necesita introducir python -m http.server 8000
 
-y para ngrok luego de instalar u estar en la ruta es ngrok http 8000
+y para ngrok luego de instalar y estar en la ruta es ngrok http 8000
